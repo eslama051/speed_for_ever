@@ -2,7 +2,18 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  font-family: $regular_font;
 }
-body {
-  direction: rtl;
+body[dir="rtl"] {
+  .v-text-field__slot {
+    .v-label {
+      right: 0px !important;
+      left: auto !important;
+    }
+  }
+}
+a {
+  text-decoration: none;
+  color: black !important;
+  font-weight: bold;
 }

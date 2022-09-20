@@ -24,3 +24,26 @@
   src: url("../fonts/Cairo-ExtraBold.ttf");
 }
 // END:: FONT
+
+h1 {
+  font-size: 2rem;
+  font-family: $medium_font;
+}
+h2 {
+  font-size: 1.7rem;
+  font-family: $medium_font;
+}
+h3 {
+  font-size: 1.3rem;
+  font-family: $medium_font;
+}
+p {
+  font-size: 1rem;
+  font-family: $medium_font;
+}
+.light_gray {
+  color: var(--light_gray_clr);
+}
+.red-text {
+  color: var(--mid_red_clr) !important;
+}

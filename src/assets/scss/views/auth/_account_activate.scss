@@ -1,0 +1,25 @@
+.account_activate_section {
+  padding-bottom: 1rem;
+  .account_activate_form {
+    p {
+      color: var(--main_theme_clr);
+      font-weight: 500;
+    }
+    .resend_btn {
+      cursor: pointer;
+    }
+    button {
+      font-size: 1.2rem;
+      padding: 0.7rem 3rem;
+    }
+  }
+}
+.account_activate_otp {
+  margin: 1rem 0rem;
+}
+body[dir="rtl"] {
+  .account_activate_number,
+  .account_activate_otp {
+    direction: ltr;
+  }
+}

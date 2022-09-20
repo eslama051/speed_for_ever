@@ -1,0 +1,12 @@
+.welcome_auth {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 0.8rem;
+  font-family: $medium_font;
+
+  a {
+    font-weight: bold;
+  }
+}

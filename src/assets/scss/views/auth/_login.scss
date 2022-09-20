@@ -1,0 +1,9 @@
+.login_section {
+  .login_form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1.3rem;
+    padding: 0rem 1rem;
+    font-family: $medium_font;
+  }
+}

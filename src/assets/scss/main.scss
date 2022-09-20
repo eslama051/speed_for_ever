@@ -1,5 +1,9 @@
 @import "abstracts/variables";
 @import "base/reset";
 @import "base/typography";
-@import "pages/authentication";
-@import "components/auth/welcomeAtuth";
+@import "views/auth/authentication_wrapper";
+@import "views/auth/welcome_auth";
+@import "views/auth//signUp";
+@import "views/auth/login";
+@import "views/auth/account_activate";
+@import "views/auth/number_verify";

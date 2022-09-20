@@ -10,5 +10,8 @@ export default {
 
   data: () => ({}),
   methods: {},
+  mounted() {
+    document.body.dir = "rtl";
+  },
 };
 </script>

@@ -11,6 +11,11 @@ Vue.config.productionTip = false;
 import "./assets/scss/main.scss";
 // end :: importing main scss
 
+//Start :: base Button
+import BaseButton from "./components/ui/BaseButton.vue";
+Vue.component("base-button", BaseButton);
+//End :: base Button
+
 new Vue({
   router,
   store,

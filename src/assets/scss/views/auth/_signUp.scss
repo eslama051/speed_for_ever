@@ -1,0 +1,23 @@
+.register_section {
+  .register_form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+    padding: 0rem 1rem;
+  }
+  .terms_and_coniditions {
+    display: flex;
+    justify-self: flex-start;
+    column-gap: 1rem;
+    font-weight: bold;
+  }
+}
+
+body[dir="rtl"] {
+  .v-text-field__slot {
+    .v-label {
+      right: 0px !important;
+      left: auto !important;
+    }
+  }
+}
