@@ -1,0 +1,30 @@
+.nav_bar_container {
+  background: white;
+  width: 100%;
+  padding: 0rem 1rem;
+  .nav_bar {
+    max-width: 1500px;
+    // padding: rem 0rem;
+    margin: 0 auto;
+    height: 78px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .nav_links_small_btn {
+      display: none;
+      @media screen and (max-width: 1000px) {
+        display: block;
+        background-color: var(--main_theme_clr);
+        width: 40px;
+        height: 40px;
+        font-size: 1.2rem;
+        color: white;
+        border-radius: 50%;
+        transition: all 0.3s;
+        &:hover {
+          transform: scale(1.2);
+        }
+      }
+    }
+  }
+}

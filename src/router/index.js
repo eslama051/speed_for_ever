@@ -23,7 +23,14 @@ const routes = [
   {
     path: "/",
     component: AppWrapper,
-    children: [{ path: "", component: HomeView }],
+    children: [
+      { path: "", component: HomeView },
+      { path: "aboutus", component: null },
+      { path: "offers", component: null },
+      { path: "packages", component: null },
+      { path: "contactus", component: null },
+      { path: "addAdvertisement", component: null },
+    ],
   },
   {
     path: "/auth",

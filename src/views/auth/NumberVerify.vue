@@ -9,7 +9,7 @@
         length="5"
         v-model="otp"
       ></v-otp-input>
-      <p class="">{{ $t("TITLES.sendCodeAfter") }}</p>
+      <p>{{ $t("TITLES.sendCodeAfter") }}</p>
       <p>1:50</p>
       <p class="resend_btn">{{ $t("BUTTONS.resendCode") }}</p>
       <base-button>{{ $t("BUTTONS.send") }}</base-button>

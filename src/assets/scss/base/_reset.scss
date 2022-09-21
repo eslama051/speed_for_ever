@@ -4,6 +4,13 @@
   margin: 0;
   font-family: $regular_font;
 }
+
+body {
+  background-color: var(--theme_second_bg_clr);
+  counter-reset: slider;
+  height: 100vh;
+}
+
 body[dir="rtl"] {
   .v-text-field__slot {
     .v-label {
@@ -16,4 +23,14 @@ a {
   text-decoration: none;
   color: black !important;
   font-weight: bold;
+}
+ul {
+  list-style-type: none;
+}
+
+.container {
+  padding: 4rem 0rem;
+  width: 90%;
+  margin: 0 auto;
+  max-width: 1200px;
 }

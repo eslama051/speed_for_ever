@@ -1,0 +1,78 @@
+.about_home_section {
+  .about_home_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .about_home_info {
+      width: 80%;
+      background: linear-gradient(rgba(0, 0, 0, 0.02), rgba(0, 0, 0, 0.02));
+      padding: 2rem;
+      border-top-left-radius: 20px;
+      border-bottom-left-radius: 20px;
+      border-top-right-radius: 0px;
+      border-bottom-right-radius: 0px;
+      position: relative;
+      padding-bottom: 4rem;
+      p {
+        max-width: 30rem;
+      }
+      a {
+        font-weight: bolder;
+        position: absolute;
+        bottom: 2rem;
+        right: 11rem;
+      }
+    }
+    .about_home_img {
+      width: 500px;
+      margin-left: -10rem;
+      margin-right: 0rem;
+      img {
+        width: 100%;
+        display: block;
+      }
+    }
+  }
+  @media screen and (max-width: 1150px) {
+    .about_home_info {
+      border-radius: 20px !important;
+      width: 100% !important;
+      a {
+        right: 2rem;
+        left: auto;
+      }
+    }
+    .about_home_img {
+      display: none;
+    }
+  }
+}
+body[dir="rtl"] {
+  .about_home_section {
+    .about_home_container {
+      .about_home_info {
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+        a {
+          left: 11rem;
+          right: auto;
+        }
+      }
+      .about_home_img {
+        margin-left: 0rem;
+        margin-right: -10rem;
+      }
+    }
+    @media screen and (max-width: 1150px) {
+      .about_home_info {
+        border-radius: 20px !important;
+        width: 100%;
+        a {
+          left: 2rem !important;
+        }
+      }
+    }
+  }
+}

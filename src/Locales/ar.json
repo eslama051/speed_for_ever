@@ -21,7 +21,9 @@
     "NumberVerifySubtitle": "تم إرسال رسالة على رقم جوالك لتغيير كلمة المرور",
     "newPassword": "كلمة المرور الجديدة",
     "confirmNewPassword": "تأكيد كلمة المرور الجديدة",
-    "newPasswordSubtitle": "من فضلك أدخل كلمة المرور الجديدة"
+    "newPasswordSubtitle": "من فضلك أدخل كلمة المرور الجديدة",
+    "aboutUs": "معلومات عنا",
+    "readMore": "اقراء المزيد"
   },
   "BUTTONS": {
     "register": "إنشاء حساب",
@@ -30,5 +32,23 @@
     "forgotPassword": "نسيت كلمه المرور؟ ",
     "resendCode": "أعد إرسال الكود",
     "send": "إرسال"
+  },
+  "NAVBAR": {
+    "home": "الرئيسية",
+    "aboutUs": "من نحن",
+    "offers": "العروض",
+    "packages": "الباقات",
+    "contactUs": "إتصل بنا",
+    "addAdvertisement": "إضافة إعلان",
+    "myAds": "إعلاناتي",
+    "myAuctions": "مزاداتي",
+    "faqs": "الأسئلة الشائعة",
+    "privacyPolicy": "سياسة الخصوصية",
+    "logout": "تسجيل خروج",
+    "login": "سجل الأن",
+    "search": "بحث",
+    "profile": "بروفايل",
+    "favourite": "المفضله",
+    "chat": "الخاص"
   }
 }

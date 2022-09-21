@@ -16,6 +16,11 @@ import BaseButton from "./components/ui/BaseButton.vue";
 Vue.component("base-button", BaseButton);
 //End :: base Button
 
+// START:: IMPORTING FONT AWESOME
+import "@fortawesome/fontawesome-free/css/all.css";
+import "@fortawesome/fontawesome-free/js/all.js";
+// END:: IMPORTING FONT AWESOME
+
 new Vue({
   router,
   store,
