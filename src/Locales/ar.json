@@ -23,7 +23,9 @@
     "confirmNewPassword": "تأكيد كلمة المرور الجديدة",
     "newPasswordSubtitle": "من فضلك أدخل كلمة المرور الجديدة",
     "aboutUs": "معلومات عنا",
-    "readMore": "اقراء المزيد"
+    "readMore": "اقراء المزيد",
+    "latestAuctions": "أحدث المزادات",
+    "latestAdditions": "أحدث الإضافات"
   },
   "BUTTONS": {
     "register": "إنشاء حساب",
@@ -31,7 +33,8 @@
     "guest": "الدخول كزائر",
     "forgotPassword": "نسيت كلمه المرور؟ ",
     "resendCode": "أعد إرسال الكود",
-    "send": "إرسال"
+    "send": "إرسال",
+    "showAll": "عرض الكل"
   },
   "NAVBAR": {
     "home": "الرئيسية",
@@ -50,5 +53,22 @@
     "profile": "بروفايل",
     "favourite": "المفضله",
     "chat": "الخاص"
+  },
+  "FOOTER": {
+    "mainDeparts": "الأقسام الرئيسية",
+    "help": "المساعده",
+    "commonQuestion": "الأسئلة الشائعة",
+    "privacyPolciy": "سياسة الخصوصية",
+    "termAndConditions": "الشروط والأحكام",
+    "useInstruction": "تعليمات الاستخدام",
+    "importantLinks": "روابط مهمة",
+    "mainPage": "الصفحة الرئيسية",
+    "packages": "الباقات",
+    "aboutUs": "من نحن",
+    "offers": "العروض",
+    "contactUs": "إتصل بنا",
+    "downloadAndroid": "قم بتحميل تطبيق الموبيل",
+    "getYourOffer": "أحصل علي عرضك",
+    "onlyOnOurApp": "فقط علي تطبيقنا"
   }
 }

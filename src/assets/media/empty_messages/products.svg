@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="183.344" height="117.75" viewBox="0 0 183.344 117.75">
+  <g id="cart" transform="translate(-27.813 -35)">
+    <path id="Background" d="M50.5,85.722c-4.244,0-7.685-3.838-7.685-8.572s3.441-8.572,7.685-8.572H7.685C3.441,68.578,0,64.74,0,60.006s3.441-8.572,7.685-8.572H51.6c4.244,0,7.685-3.838,7.685-8.572s-3.441-8.572-7.685-8.572H24.153c-4.244,0-7.685-3.838-7.685-8.572s3.441-8.572,7.685-8.572H68.068c-4.244,0-7.685-3.838-7.685-8.572S63.823,0,68.068,0H175.659c4.244,0,7.685,3.838,7.685,8.572s-3.441,8.572-7.685,8.572H131.744c4.244,0,7.685,3.838,7.685,8.572s-3.441,8.572-7.685,8.572H155.9c4.244,0,7.685,3.838,7.685,8.572s-3.441,8.572-7.685,8.572h-11.17c-5.352,0-9.69,3.838-9.69,8.572s6.587,8.572,6.587,8.572c4.244,0,7.685,3.838,7.685,8.572s-3.441,8.572-7.685,8.572ZM167.974,42.861c0-4.734,3.441-8.572,7.685-8.572s7.685,3.838,7.685,8.572-3.441,8.572-7.685,8.572S167.974,47.6,167.974,42.861Z" transform="translate(27.813 61)" fill="rgba(108,152,162,0.2)"/>
+    <path id="ground_line" d="M114.128.5ZM87,.5ZM13,.5ZM.128.5Z" transform="translate(67 151)" fill="none" stroke="#6c98a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+    <g id="Group_21185" data-name="Group 21185" transform="translate(-3 12)">
+      <g id="Iconly_Two-tone_Bag" data-name="Iconly/Two-tone/Bag" transform="translate(86.5 49.659)">
+        <g id="Bag" transform="translate(3.301 2.278)">
+          <path id="Path_33955" d="M53.074,59.221H19.542C7.231,59.221-2.225,54.752.458,36.775L3.583,12.408C5.222,3.433,10.937,0,15.938,0H56.821c5.073,0,10.443,3.691,12.356,12.408L72.3,36.775C74.579,52.725,65.388,59.221,53.074,59.221Z" transform="translate(1 19.721)" fill="none" stroke="#6c98a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+          <path id="Path_33956" d="M35.705,17.814A17.813,17.813,0,0,0,17.891,0h0A17.813,17.813,0,0,0,0,17.814H0" transform="translate(19.344)" fill="none" stroke="#6c98a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+          <path id="Line_192" d="M.625.458H.435" transform="translate(48.841 35.928)" fill="#fff" stroke="#6c98a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+          <path id="Line_193" d="M.625.458H.435" transform="translate(24.797 35.928)" fill="#fff" stroke="#6c98a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Group_21184" data-name="Group 21184">
+        <circle id="Oval" cx="5.5" cy="5.5" r="5.5" transform="translate(122 107)" fill="none" stroke="#6c98a2" stroke-miterlimit="10" stroke-width="2.5"/>
+        <path id="Line" d="M0,10.722,7,5.229,0,0" transform="translate(112 90.278)" fill="none" stroke="#6c98a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+        <path id="Line-2" data-name="Line" d="M0,10.722-7,5.229,0,0" transform="translate(143 90.278)" fill="none" stroke="#6c98a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      </g>
+    </g>
+    <circle id="Oval-2" data-name="Oval" cx="3" cy="3" r="3" transform="translate(155 36)" fill="none" stroke="rgba(108,152,162,0.5)" stroke-miterlimit="10" stroke-width="2"/>
+    <circle id="Oval-3" data-name="Oval" cx="3" cy="3" r="3" transform="translate(186 52)" fill="rgba(108,152,162,0.5)"/>
+    <path id="Line_5" data-name="Line 5" d="M4.6,4.6.481,8.712,4.6,4.6.354.354,4.6,4.6,8.839.354,4.6,4.6,8.712,8.712Z" transform="translate(165.404 49.404)" fill="none" stroke="rgba(108,152,162,0.5)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+    <path id="Line_4" data-name="Line 4" d="M3,3,0,6,3,3,0,0,3,3,6,0,3,3,6,6Z" transform="translate(71.404 67.596)" fill="none" stroke="rgba(108,152,162,0.5)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+    <path id="Oval-4" data-name="Oval" d="M3,0A3,3,0,1,1,0,3,3,3,0,0,1,3,0Z" transform="translate(82 55)" fill="rgba(108,152,162,0.5)"/>
+    <path id="Line-3" data-name="Line" d="M0,10.722-7,5.229,0,0" transform="translate(143 90.278)" fill="rgba(108,152,162,0)"/>
+  </g>
+</svg>

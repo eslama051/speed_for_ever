@@ -7,7 +7,9 @@
       <div class="logo_container">
         <img src="../../assets/media/logo/logo.svg" alt="" />
       </div>
-      <router-view></router-view>
+      <transition name="slide-fade" mode="out-in">
+        <router-view></router-view>
+      </transition>
     </div>
   </div>
 </template>

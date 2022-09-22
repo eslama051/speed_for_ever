@@ -32,5 +32,35 @@ ul {
   padding: 4rem 0rem;
   width: 90%;
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 1320px;
 }
+
+.text-center {
+  text-align: center;
+}
+// start :: fide transition
+.fide-enter-active,
+.fide-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.fide-enter-from,
+.fide-leave-to {
+  opacity: 0;
+}
+
+// end:: fide transition
+
+// start:: fide-slide transition
+.slide-fade-enter-active {
+  transition: all 0.3s ease;
+}
+.slide-fade-leave-active {
+  transition: all 0.4s cubic-bezier(1, 0.5, 0.8, 1);
+}
+.slide-fade-enter, .slide-fade-leave-to
+/* .slide-fade-leave-active below version 2.1.8 */ {
+  transform: translateX(10px);
+  opacity: 0;
+}
+// end:: fide-slide transition

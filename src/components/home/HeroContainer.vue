@@ -1,6 +1,7 @@
 <template>
   <section class="hero_container">
     <owl-carousel
+      dir="ltr"
       class="slider-wrapper"
       :autoplay="true"
       :nav="false"
@@ -8,7 +9,7 @@
       :items="1"
       :mouseDrag="true"
     >
-      <div class="item">
+      <div class="item" v-for="item in [{ id: 1 }, { id: 2 }]" :key="item.id">
         <div class="slider-img-wrapper">
           <img
             class="slider_image"
@@ -20,7 +21,7 @@
           <h1>header</h1>
         </div>
       </div>
-      <div class="item">
+      <!-- <div class="item">
         <div class="slider-img-wrapper">
           <img
             class="slider_image"
@@ -31,7 +32,7 @@
         <div class="slider-content-wrapper">
           <h1>header</h1>
         </div>
-      </div>
+      </div> -->
     </owl-carousel>
     <div class="social-media-wrapper">
       <a href="#"><i class="fab fa-facebook"></i></a>
@@ -41,12 +42,9 @@
   </section>
 </template>
 <script>
-import OwlCarousel from "vue-owl-carousel2";
-
 export default {
   data() {
     return {};
   },
-  components: { OwlCarousel },
 };
 </script>

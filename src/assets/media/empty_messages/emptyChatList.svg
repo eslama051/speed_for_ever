@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="223.376" height="169.198" viewBox="0 0 223.376 169.198">
+  <g id="Group_6" data-name="Group 6" transform="translate(-376.82 -2454)">
+    <g id="rate" transform="translate(339.82 2412.448)">
+      <path id="Background" d="M61.528,93.093a9.309,9.309,0,1,1,0-18.618H9.363a9.31,9.31,0,1,1,0-18.619h53.5a9.309,9.309,0,1,0,0-18.618H29.426a9.309,9.309,0,1,1,0-18.618h53.5A9.31,9.31,0,1,1,82.93,0H214.012a9.309,9.309,0,1,1,0,18.618h-53.5a9.309,9.309,0,1,1,0,18.618h29.426a9.309,9.309,0,1,1,0,18.618H176.328c-6.52,0-11.8,4.168-11.8,9.309s8.025,9.309,8.025,9.309a9.309,9.309,0,1,1,0,18.618ZM204.649,46.547a9.364,9.364,0,1,1,9.363,9.309A9.337,9.337,0,0,1,204.649,46.547Z" transform="translate(37 85.472)" fill="rgba(108,152,162,0.2)"/>
+      <path id="ground_line" d="M114.128.5ZM87,.5ZM13,.5ZM.128.5Z" transform="translate(101.289 186.566)" fill="none" stroke="#6c98a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <circle id="Oval" cx="3" cy="3" r="3" transform="translate(201.324 42.552)" fill="none" stroke="rgba(108,152,162,0.5)" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Oval-2" data-name="Oval" cx="3" cy="3" r="3" transform="translate(244.49 56.552)" fill="rgba(108,152,162,0.5)"/>
+      <path id="Line_5" data-name="Line 5" d="M4.6,4.6.481,8.712,4.6,4.6.354.354,4.6,4.6,8.839.354,4.6,4.6,8.712,8.712Z" transform="translate(213.104 57.404)" fill="none" stroke="rgba(108,152,162,0.5)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <path id="Line_4" data-name="Line 4" d="M3,3,0,6,3,3,0,0,3,3,6,0,3,3,6,6Z" transform="translate(85.495 82.467)" fill="none" stroke="rgba(108,152,162,0.5)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <circle id="Oval-3" data-name="Oval" cx="3" cy="3" r="3" transform="translate(100.4 62.552)" fill="rgba(108,152,162,0.5)"/>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(-13 151)">
+      <g id="COCO_Line_Message_-_4" data-name="COCO/Line/Message - 4" transform="translate(443.798 2393.639) rotate(-45)">
+        <path id="Vector" d="M1.38,31.136A38.92,38.92,0,0,1,29.834,1.627l1.12-.27a49.271,49.271,0,0,1,22.973,0l1.905.455a37.58,37.58,0,0,1,27.479,28.5l.445,1.935a49.787,49.787,0,0,1,0,22.278c-1.262,6.032-5.386,15.064-9.514,21.4-2.685,2.79.673.4-7.6,6.362C60.52,87.765,41.422,86.963,41,87.553c-1.536,2.146.122-1.169-.5.5-.46,1.273.334,19.863-1.082,20.029-1.589.195-8.548-18.208-10.355-18.946l-.555-.26A47.441,47.441,0,0,1,1.4,55.7,55.047,55.047,0,0,1,1.38,31.136Z" transform="translate(0 0)" fill="none" stroke="#6c98a2" stroke-linecap="round" stroke-width="3"/>
+      </g>
+      <g id="Group_21192" data-name="Group 21192" transform="translate(488.292 2376.577)">
+        <circle id="Oval-4" data-name="Oval" cx="5.5" cy="5.5" r="5.5" transform="translate(12.019 23.423)" fill="none" stroke="#6c98a2" stroke-miterlimit="10" stroke-width="2.5"/>
+        <path id="Line" d="M0,10.722,7,5.229,0,0" fill="none" stroke="#6c98a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+        <path id="Line-2" data-name="Line" d="M0,10.722-7,5.229,0,0" transform="translate(36.613)" fill="none" stroke="#6c98a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

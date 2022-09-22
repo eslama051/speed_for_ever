@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="206.308" height="136.75" viewBox="0 0 206.308 136.75">
+  <g id="rate" transform="translate(-37 -41.552)">
+    <path id="Background" d="M56.827,93.093c-4.776,0-8.648-4.168-8.648-9.309s3.872-9.309,8.648-9.309H8.648C3.872,74.475,0,70.307,0,65.165s3.872-9.309,8.648-9.309H58.063c4.776,0,8.648-4.168,8.648-9.309s-3.872-9.309-8.648-9.309H27.178c-4.776,0-8.648-4.168-8.648-9.309s3.872-9.309,8.648-9.309H76.593c-4.776,0-8.648-4.168-8.648-9.309S71.817,0,76.593,0H197.66c4.776,0,8.648,4.168,8.648,9.309s-3.872,9.309-8.648,9.309H148.245c4.776,0,8.648,4.168,8.648,9.309s-3.872,9.309-8.648,9.309h27.178c4.776,0,8.648,4.168,8.648,9.309s-3.872,9.309-8.648,9.309H162.855c-6.022,0-10.9,4.168-10.9,9.309s7.412,9.309,7.412,9.309c4.776,0,8.648,4.168,8.648,9.309s-3.872,9.309-8.648,9.309ZM189.012,46.547c0-5.141,3.872-9.309,8.648-9.309s8.648,4.168,8.648,9.309-3.872,9.309-8.648,9.309S189.012,51.688,189.012,46.547Z" transform="translate(37 75.458)" fill="rgba(108,152,162,0.2)"/>
+    <path id="ground_line" d="M114.128.5ZM87,.5ZM13,.5ZM.128.5Z" transform="translate(91.237 176.552)" fill="none" stroke="#6c98a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+    <g id="Iconly_Two-tone_Star" data-name="Iconly/Two-tone/Star" transform="translate(103.02 80.915)">
+      <g id="Star">
+        <path id="Stroke_1" data-name="Stroke 1" d="M49.955,3.339l9.039,18.184a6.077,6.077,0,0,0,4.581,3.307L83.8,27.758a6.037,6.037,0,0,1,3.369,10.315L72.544,52.219a6,6,0,0,0-1.753,5.354l3.463,19.973a6.134,6.134,0,0,1-2.46,5.943,6.041,6.041,0,0,1-6.381.433L47.347,74.492a6.137,6.137,0,0,0-5.671,0L23.6,83.926a6.037,6.037,0,0,1-6.379-.432,6.13,6.13,0,0,1-2.457-5.943l3.463-19.973a6,6,0,0,0-1.753-5.354L1.837,38.079A6.037,6.037,0,0,1,5.207,27.763l20.225-2.928a6.086,6.086,0,0,0,4.586-3.307L39.07,3.339a6.111,6.111,0,0,1,10.885,0Z" transform="translate(-0.003 -0.007)" fill="none" stroke="#6c98a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+    </g>
+    <circle id="Oval" cx="3" cy="3" r="3" transform="translate(188.422 42.552)" fill="none" stroke="rgba(108,152,162,0.5)" stroke-miterlimit="10" stroke-width="2"/>
+    <circle id="Oval-2" data-name="Oval" cx="3" cy="3" r="3" transform="translate(227.422 56.552)" fill="rgba(108,152,162,0.5)"/>
+    <path id="Line_5" data-name="Line 5" d="M4.6,4.6.481,8.712,4.6,4.6.354.354,4.6,4.6,8.839.354,4.6,4.6,8.712,8.712Z" transform="translate(199.089 57.404)" fill="none" stroke="rgba(108,152,162,0.5)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+    <path id="Line_4" data-name="Line 4" d="M3,3,0,6,3,3,0,0,3,3,6,0,3,3,6,6Z" transform="translate(81.687 79.581)" fill="none" stroke="rgba(108,152,162,0.5)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+    <circle id="Oval-3" data-name="Oval" cx="3" cy="3" r="3" transform="translate(95.422 62.552)" fill="rgba(108,152,162,0.5)"/>
+    <g id="Group_21192" data-name="Group 21192" transform="translate(129.404 113.129)">
+      <circle id="Oval-4" data-name="Oval" cx="5.5" cy="5.5" r="5.5" transform="translate(12.019 23.423)" fill="none" stroke="#6c98a2" stroke-miterlimit="10" stroke-width="2.5"/>
+      <path id="Line" d="M0,10.722,7,5.229,0,0" fill="none" stroke="#6c98a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <path id="Line-2" data-name="Line" d="M0,10.722-7,5.229,0,0" transform="translate(36.613)" fill="none" stroke="#6c98a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

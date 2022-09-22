@@ -11,6 +11,11 @@ Vue.config.productionTip = false;
 import "./assets/scss/main.scss";
 // end :: importing main scss
 
+// start :: owl carousel2
+import owlCarousel from "vue-owl-carousel2";
+Vue.component("owl-carousel", owlCarousel);
+// end :: owl carousel2
+
 //Start :: base Button
 import BaseButton from "./components/ui/BaseButton.vue";
 Vue.component("base-button", BaseButton);
